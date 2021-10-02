@@ -1,4 +1,3 @@
-# bankmisr-task
 Maria DB is used .
 One service is implemented and other services will be discussed in the interview and if I based java interview I will start in Angular task (As I applied for Full stack)
 
